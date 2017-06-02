@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>27</ColumnWidth0><ColumnWidth1>1310</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>27</ColumnWidth0>
+        <ColumnWidth1>982</ColumnWidth1>
+        <ColumnWidth2>262</ColumnWidth2>
+        <ColumnWidth3>65</ColumnWidth3>
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>169</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory><item>0x800</item><item>0x3000</item><item>0000</item><item>0x3030</item><item>3030</item><item>65000</item><item>40000</item><item>100000</item><item>20000</item><item>10000</item><item>6000</item><item>02A000</item><item>2a000</item><item>__program_start</item></DisasmHistory>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+    <Find-in-Files><ColumnWidth0>923</ColumnWidth0><ColumnWidth1>131</ColumnWidth1><ColumnWidth2>1583</ColumnWidth2><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Build</Factory></Window></Windows></PreferedWindows></Find-in-Files><WATCH_1><expressions><item>crc</item><item>BIM_IMG_B_PAGE</item><item>BIM_IMG_B_AREA</item><item>HAL_FLASH_PAGE_SIZE</item><item>page</item><item>pageBeg</item><item>BIM_HDR_OSET</item><item>BIM_IMG_B_PAGE</item><item>HAL_FLASH_WORD_SIZE</item><item>BIM_CRC_OSET</item><item>HAL_FLASH_WORD_SIZE</item><item>addr</item><item>pageEnd</item><item>pg</item><item>crc</item><item>pageBeg</item><item>HAL_FLASH_PAGE_MAP</item><item>HAL_FLASH_PAGE_PER_BANK</item><item>address</item><item>page</item><item>page</item><item>memctr</item><item>crc</item><item>RNDH</item><item>RNDL</item><item>pageBeg</item><item>HAL_FLASH_PAGE_SIZE</item><item>page</item><item>BIM_HDR_OSET</item><item>pageBeg</item><item>pageBeg</item><item>steven</item><item>SHC_crc</item><item>crc[0]</item><item>crc[1]</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>246</item><item>154</item><item>100</item><item>190</item></col-widths></WATCH_1><Memory><FindDirection>1</FindDirection><FindAsHex>0</FindAsHex></Memory></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-11-17153</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>BIM</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10759-17156</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-11997-8257</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3><Wnd6><Tabs><Tab><Identity>TabID-28644-21972</Identity><TabName>Memory</TabName><Factory>Memory</Factory><Session><ZoneNumber>3</ZoneNumber><SelectionAnchor>2048</SelectionAnchor><SelectionEnd>2050</SelectionEnd><UnitsPerGroup>1</UnitsPerGroup><EndianMode>0</EndianMode><DataCovEnabled>0</DataCovEnabled><DataCovShown>0</DataCovShown><AutoRefresh>0</AutoRefresh><HScroll>0</HScroll><VScroll>123</VScroll></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd6><Wnd7><Tabs><Tab><Identity>TabID-21063-30916</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd7></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\bim_main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>333</YPos2><SelStart2>11755</SelStart2><SelEnd2>11755</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\app\bim_ivec.s51</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>7455</SelStart2><SelEnd2>7460</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Components\hal\target\CC2540EB\hal_flash.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>79</YPos2><SelStart2>4206</SelStart2><SelEnd2>4206</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CC254xF256\List\BIM.map</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0022c820><key>iaridepm.enu1</key></Toolbar-0022c820><Toolbar-21b57320><key>debuggergui.enu1</key></Toolbar-21b57320></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>498</Bottom><Right>243</Right><x>-2</x><y>-2</y><xscreen>386</xscreen><yscreen>198</yscreen><sizeHorzCX>145058</sizeHorzCX><sizeHorzCY>207983</sizeHorzCY><sizeVertCX>92071</sizeVertCX><sizeVertCY>525210</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>498</Bottom><Right>583</Right><x>-2</x><y>-2</y><xscreen>386</xscreen><yscreen>198</yscreen><sizeHorzCX>145058</sizeHorzCX><sizeHorzCY>207983</sizeHorzCY><sizeVertCX>219842</sizeVertCX><sizeVertCY>525210</sizeVertCY></Rect></Wnd2></Sizes></Row0><Row1><Sizes><Wnd3><Rect><Top>-2</Top><Left>581</Left><Bottom>498</Bottom><Right>1275</Right><x>581</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>75160</sizeHorzCX><sizeHorzCY>210084</sizeHorzCY><sizeVertCX>260804</sizeVertCX><sizeVertCY>525210</sizeVertCY></Rect></Wnd3></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd6><Rect><Top>-2</Top><Left>-2</Left><Bottom>208</Bottom><Right>2663</Right><x>-2</x><y>-2</y><xscreen>2665</xscreen><yscreen>210</yscreen><sizeHorzCX>1001503</sizeHorzCX><sizeHorzCY>220588</sizeHorzCY><sizeVertCX>75160</sizeVertCX><sizeVertCY>210084</sizeVertCY></Rect></Wnd6></Sizes></Row0><Row1><Sizes><Wnd7><Rect><Top>206</Top><Left>-2</Left><Bottom>406</Bottom><Right>2663</Right><x>-2</x><y>206</y><xscreen>2665</xscreen><yscreen>200</yscreen><sizeHorzCX>1001503</sizeHorzCX><sizeHorzCY>210084</sizeHorzCY><sizeVertCX>75160</sizeVertCX><sizeVertCY>210084</sizeVertCY></Rect></Wnd7></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
